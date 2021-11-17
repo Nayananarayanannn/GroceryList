@@ -1,0 +1,82 @@
+body{
+    padding:0%;
+    margin: 0%;
+    background-image: url("https://www.pngall.com/wp-content/uploads/4/Grocery-PNG-Image.png");
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+}
+
+table tr{
+    height: 100px;
+    font-size: larger;
+    text-align: center;
+}
+th,td {
+    padding-top: 40px!important;
+}
+table,th,td{
+   border-width: 0.1px;
+   border-color: rgb(71, 71, 71);
+   border-style: outset;
+   text-decoration: no;
+   
+}
+
+input:checked + table td{
+    text-decoration: line-through!important;
+}
+.addBtn {
+    padding: 2px;
+    width: 10%;
+    background: #191919!important;
+    color: rgb(255, 255, 255)!important;
+    
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    border:10px solid rgb(42, 42, 42);
+    
+  }
+  .addBtn:hover {
+    border: white 2px solid ;
+
+    box-shadow: 2px 2px 8px 10px #888888;
+  }
+  .remBtn {
+    padding: 2px;
+    width: 100%!important;
+    background: #191919;
+    color: rgb(255, 255, 255);
+    
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    
+  }
+  .remBtn:hover {
+    border: white 2px solid ;
+
+    box-shadow: 2px 2px 8px 10px #888888;
+  }
+  .adds{
+      margin-left: 30%;
+  }
+  .adds input{
+      width: 90%;
+      
+      margin:1%;
+      text-align: center;
+      background-color: rgb(255, 255, 255);
+      color: rgb(14, 13, 13);
+      height: 5rem;
+  }
+  #offcanvasRight{
+    background-image: url("https://www.pngall.com/wp-content/uploads/4/Grocery-PNG-Image.png");
+    background-size: 100% 300px;
+    background-repeat: no-repeat;
+  }
+  

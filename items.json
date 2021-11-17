@@ -1,0 +1,94 @@
+{
+    "items":[
+        {
+          "serialNumber":1,
+          "name":"Rice",
+          "quantity":10,
+          "unit":"Kg",
+          "Department":"Cerials",
+          "Notes":"Red Rice(Matta)"
+          
+        },
+        {
+            "serialNumber":2,
+          "name":"Wheat",
+          "quantity":2,
+          "unit":"Kg",
+          "Department":"Cerials",
+          "Notes":"Ashirvad Atta",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":3,
+          "name":"Carrot",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Fresh",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":4,
+          "name":"Potato",
+          "quantity":2,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Baby potatoes",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":5,
+          "name":"Green peas",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Packet",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":6,
+          "name":"Butter",
+          "quantity":100,
+          "unit":"gm",
+          "Department":"Dairy",
+          "Notes":"Amul",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":7,
+          "name":"Milk",
+          "quantity":1,
+          "unit":"L",
+          "Department":"Dairy",
+          "Notes":"Ashirvad Atta",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":8,
+          "name":"Washing powder",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Cleansers",
+          "Notes":"Sunlight/Ujala",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":9,
+          "name":"Masala powder",
+          "quantity":100,
+          "unit":"gm",
+          "Department":"Spices",
+          "Notes":"Aachi/Nirapara for biriyani",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":10,
+          "name":"Chilly powder",
+          "quantity":200,
+          "unit":"gm",
+          "Department":"Spices",
+          "Notes":"Kashmiri chilli powder if available",
+          "Bought":"<input type='checkbox'>"
+        }
+    ]
+}
