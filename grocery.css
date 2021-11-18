@@ -5,6 +5,16 @@ body{
     background-size: 100% 500px;
     background-repeat: no-repeat;
 }
+.head{
+  text-align: center;
+  margin-top: 20%;
+}
+@media (min-width:768px){.head{
+  text-align: center;
+  margin-top: 12%;
+}
+}
+
 
 table tr{
     height: 100px;
